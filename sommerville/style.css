@@ -12,4 +12,10 @@ p.stars {
 
 p.subtitle {
   text-align: center;
+  font-size: small;
+}
+
+hr.break {
+  width: 25%;
+  text-align: center;
 }
